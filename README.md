@@ -70,7 +70,7 @@ MOVIE-PROJECT <br>
 
 # 🌐 Live API
 
-https://pr-movies-projects-node-js.onrender.com/
+https://movie-project-13us.onrender.com/
 
 
 # 📦 Dependencies
@@ -200,6 +200,7 @@ npm run dev
 Server will run on:
 
 http://localhost:5000
+
 
 
 
