@@ -70,7 +70,7 @@ MOVIE-PROJECT <br>
 
 # 🌐 Live API
 
-https://movie-project-13us.onrender.com/
+https://pr-movies-projects-node-js.onrender.com/
 
 
 # 📦 Dependencies
@@ -140,30 +140,30 @@ DELETE /movies/delete/:id
 
 **Server Check**
 
-<img width="1920" height="1080" alt="Screenshot 2026-03-11 122209" src="https://github.com/user-attachments/assets/564a54ac-28e6-4a64-a8f4-90f8f495e13e" />
-
+<img width="1920" height="1080" alt="Screenshot 2026-03-10 124317" src="https://github.com/user-attachments/assets/e4b44b4c-829b-4a6e-91f0-10f33392a9bc" />
 
 **Add Movie**
 
-<img width="1920" height="1080" alt="Screenshot 2026-03-11 122218" src="https://github.com/user-attachments/assets/5fb6f61c-bed7-4f0a-a549-4058254adc1f" />
-
+<img width="1920" height="1080" alt="Screenshot 2026-03-10 124323" src="https://github.com/user-attachments/assets/5c9b7165-6701-4f0c-984d-e0bd30d64f52" />
 
 **Get All Movies**
 
-<img width="1920" height="1080" alt="Screenshot 2026-03-11 122258" src="https://github.com/user-attachments/assets/3f147e12-6f5b-4049-978c-1439a326ac52" />
-
+<img width="1920" height="1080" alt="Screenshot 2026-03-10 124329" src="https://github.com/user-attachments/assets/61d47b1d-263c-4d8c-8e2c-ec569e62432a" />
 
 
 **Get Single Movie**
 
-<img width="1920" height="1080" alt="Screenshot 2026-03-11 122233" src="https://github.com/user-attachments/assets/ac73a160-71a0-4c3e-9fdb-baa9f93a2e80" />
+<img width="1920" height="1080" alt="Screenshot 2026-03-10 124336" src="https://github.com/user-attachments/assets/afdaf5d3-ec1d-4dfc-9233-27ebd272c48b" />
 
+
+**Update Movie**
+
+<img width="1920" height="1080" alt="Screenshot 2026-03-10 124347" src="https://github.com/user-attachments/assets/86cf72e3-aad9-4d90-a4ba-43a0ecb73071" />
 
 
 **Delete Movie**
 
-<img width="1920" height="1080" alt="Screenshot 2026-03-11 122250" src="https://github.com/user-attachments/assets/6869e3c4-664d-453d-8fcd-df309cfa5951" />
-
+<img width="1920" height="1080" alt="Screenshot 2026-03-10 124341" src="https://github.com/user-attachments/assets/add69c07-63df-4153-bfb8-aa5073f48bc1" />
 
 
 
@@ -171,7 +171,7 @@ DELETE /movies/delete/:id
 
 1️⃣ Clone Repository
 
-https://github.com/jayparmarit/movie-project
+https://github.com/amitdabhi01/PR_MOVIES-PROJECTS-Node.js.git
 
 2️⃣ Go to Project Folder
 
@@ -200,7 +200,5 @@ npm run dev
 Server will run on:
 
 http://localhost:5000
-
-
 
 
